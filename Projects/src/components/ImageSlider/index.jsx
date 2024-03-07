@@ -45,7 +45,7 @@ useEffect(() => {
     };
   
     fetchData();
-  }, [url, limit]); // Include url and limit in the dependency array
+  }, [url, limit]);
   
 
   if (loading) {
