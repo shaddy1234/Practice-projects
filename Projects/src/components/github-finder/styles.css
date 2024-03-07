@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .Avatar {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .Profile {
+    margin-top: 20px;
+  }
+  
